@@ -78,12 +78,7 @@ This will display all new support tools.
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/XSS-confirm.png width=400>
 </p>
 
-## Contact
 
-You can reach out to the author via the following channels:
-
-- [Twitter](https://twitter.com/Un9nPlayer)
-- [Instagram](https://instagram.com/Un9nPlayer)
 
 ## Disclaimer
 
