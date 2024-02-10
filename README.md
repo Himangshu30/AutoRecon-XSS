@@ -1,6 +1,5 @@
 # AutoRecon-XSS
 
-
 ## Description
 
 AutoRecon-XSS is a script designed for automated reconnaissance of XSS vulnerabilities. It crawls the target URL or alive domains, extracts potentially vulnerable URLs, and checks them for XSS vulnerabilities.
@@ -54,7 +53,7 @@ bash AutoRecon-XSS.sh http://testphp.vulnweb.com 2000 "<script>alert(1)</script>
 ```
 <p align="center">
 <img src=https://github.com/un9nplayer/AutoRecon-XSS/blob/main/image.png width=1000>
-<img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/new.png width=1000>
+<img src=https://github.com/Himangshu30/AutoRecon-XSS/tree/main>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/XSS.png width=1000>
 </p>
 
@@ -74,6 +73,7 @@ This will display all new support tools.
 | `Dalfox`		            | Scan vulnerable urls to check the confirmed XSS.   | 
 
 <p align="center">
+<img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/image.png width=400>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/Subdomain.png width=400>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/XSS-confirm.png width=400>
 </p>
