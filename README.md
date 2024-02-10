@@ -10,7 +10,7 @@ AutoRecon-XSS is a script designed for automated reconnaissance of XSS vulnerabi
 - [External-tools](#external-tools)
 - [Usage](#usage)
 - [What New](#what-new)
-- [Contact](#contact)
+
 - [Disclaimer](#disclaimer)
 
 ## Installation
