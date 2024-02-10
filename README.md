@@ -36,7 +36,7 @@ Installation:
 subfinder: go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 httpx : go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 qsreplace: go install github.com/tomnomnom/qsreplace@latest
-waybackurls: go install github.com/tomnomnom/waybackurls@latest
+waybackurls: go install github.com/tomnom<img src=https://github.com/un9nplayer/AutoRecon-XSS/blob/main/image.png width=1000>nom/waybackurls@latest
 dalfox: go install github.com/hahwul/dalfox/v2@latest
 notify: go install -v github.com/projectdiscovery/notify/cmd/notify@latest
 ```
@@ -53,7 +53,7 @@ bash AutoRecon-XSS.sh http://testphp.vulnweb.com 2000 "<script>alert(1)</script>
 ```
 <p align="center">
 <img src=https://github.com/un9nplayer/AutoRecon-XSS/blob/main/image.png width=1000>
-<img src=https://github.com/Himangshu30/AutoRecon-XSS/tree/main>
+<img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/new.png width=1000>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/XSS.png width=1000>
 </p>
 
@@ -73,15 +73,19 @@ This will display all new support tools.
 | `Dalfox`		            | Scan vulnerable urls to check the confirmed XSS.   | 
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/image.png width=400>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/Subdomain.png width=400>
 <img src=https://raw.githubusercontent.com/un9nplayer/AutoRecon-XSS/main/XSS-confirm.png width=400>
 </p>
 
+## Contact
 
+You can reach out to the author via the following channels:
+
+- [Twitter](https://twitter.com/Un9nPlayer)
+- [Instagram](https://instagram.com/Un9nPlayer)
 
 ## Disclaimer
 
 Please use AutoRecon-XSS responsibly and only for ethical purposes. Always adhere to legal and ethical standards when conducting security assessments or vulnerability scanning. The author and contributors of AutoRecon-XSS are not responsible for any misuse or illegal activities conducted with this tool.
 
-AutoRecon-XSS is made with @Himangshu
+AutoRecon-XSS is made with Himangshu
